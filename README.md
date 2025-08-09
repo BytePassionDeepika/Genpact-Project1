@@ -37,16 +37,6 @@ This project demonstrates **Java, JSP, and Servlet-based full-stack development*
 4. **Closing Accounts:** Customers can close their accounts only after the balance is **₹0**.
 
 ---
-## 📂 Project Structure
-BankingSystem/
-│
-├── src/ # Java source code (Servlets & logic)
-├── WebContent/ # JSP pages, CSS, JS
-├── lib/ # Required libraries
-├── README.md # Project documentation
-└── database.sql # MySQL database script
----
-
 ## 💡 Key Highlights
 - Implements **role-based access control** (Admin & Customer).
 - Secure password update mechanism.
@@ -54,7 +44,6 @@ BankingSystem/
 - User-friendly interface for ease of use.
 
 ---
-
 ## 🛠️ Installation & Setup
 1. Clone the repository:
    ```bash
