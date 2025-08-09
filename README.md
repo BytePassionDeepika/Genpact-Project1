@@ -37,8 +37,6 @@ This project demonstrates **Java, JSP, and Servlet-based full-stack development*
 4. **Closing Accounts:** Customers can close their accounts only after the balance is **₹0**.
 
 ---
-
-## 📂 Project Structure
 ## 📂 Project Structure
 BankingSystem/
 │
@@ -47,11 +45,6 @@ BankingSystem/
 ├── lib/ # Required libraries
 ├── README.md # Project documentation
 └── database.sql # MySQL database script
-
-yaml
-Copy
-Edit
-
 ---
 
 ## 💡 Key Highlights
